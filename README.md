@@ -1,8 +1,6 @@
 <h1 align="top">💫 About me</h1>
 <p>I'm Duong, a sophomore at LUT University, Finland ⭐️. I have a strong academic background in React/ Full Stack development and also familiar with the git-flow model, and Agile/Scrum development. With a solid foundation in Data Structure and Algorithm, since I have gotten into competitive programming when I was at high school and achieved many prize in my country 🏆🥇.<p>
 
-<p>Coding brings me unbridled joy❤️‍🔥! It's not just about typing lines of text; it's like having a superpower to create something out of nothing 🏋🏽‍♂️. It's not just a job; it's a daily adventure, a journey where each bug squashed and feature implemented is a triumph. It aslo is my hobby and my passion 👨🏼‍💻.</p>
-
 <p>I  consider myself as a discipline, patient, hard-working, team-player developer and really look for Front-end/ React/ Full-stack web development position💻. Please feel free to get in touch with me via email 📩 at thanhduonghd114@gmail.com</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexha11&label=Profile%20views&color=0e75b6&style=flat" alt="alexha11" /> </p>
