@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexha11" alt="alexha11" /></a> </p>
 
-- 📫 How to reach me **thanhduonghd114@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
