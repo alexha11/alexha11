@@ -1,4 +1,4 @@
-[![Header](./assets/DuongHa-BlueImage.png)](https://portfolio-web-nqi7.onrender.com/)
+[![Header](./assets/D.Ha-hearder-image.png)](https://portfolio-web-nqi7.onrender.com/)
 
 
 
