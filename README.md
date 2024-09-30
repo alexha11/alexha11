@@ -1,11 +1,10 @@
+<h2 align="Left">⚽ Infor</h2>
+
 <p align="right">
         <img src="https://komarev.com/ghpvc/?username=alexha11&label=Profile%20views&color=0e75b6&style=flat" alt="alexha11" />
       </p>
    
    <div align="center"> 
-     <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Duong+Ha!;" />
-     </p>
      <br>
         <a href="duong.ha@student.lut.fi">
           <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
