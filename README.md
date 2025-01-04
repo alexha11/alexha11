@@ -1,30 +1,11 @@
 <h2 align="Left">⚽ Infor</h2>
 
-<p align="right">
-        <img src="https://komarev.com/ghpvc/?username=alexha11&label=Profile%20views&color=0e75b6&style=flat" alt="alexha11" />
-      </p>
-   
-   <div align="center"> 
-     <br>
-        <a href="duong.ha@student.lut.fi">
-          <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-        </a>
-        <a href="https://www.linkedin.com/in/duong-ha-55524a246/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        <a href="https://portfolio-web-nqi7.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-        </a>
-      </div>
-
-<h2 align="left">👨‍💻 Languages, Frameworks, Tools</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vue,flutter,html,css,figma,tailwind,git,r,aws" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,dart,c,java,postgresql,mongodb,flask,docker,nginx" /><br>
-</div>
-
-<br/>
+<p>
+        I do full-stack development with focus on BackEnd, Artificial Intelligence. I am on 365-days streak of Data Struce and Algorithm. Follow my GitHub to support my journey. Thank you! 
+        <br>
+        <br>
+        Contact me via thanhduonghd114@gmail.com
+</p>
 
 
 <h2 align="Left">🏋️‍♂️ Stats</h2>
