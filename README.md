@@ -1,12 +1,5 @@
 <h2 align="Left">⚽ Infor</h2>
 
-<p>
-        I do full-stack development with focus on BackEnd, Artificial Intelligence. I am on 365-days streak of Data Struce and Algorithm. Follow my GitHub to support my journey. Thank you! 
-        <br>
-        <br>
-        Contact me via thanhduonghd114@gmail.com
-</p>
-
 
 <h2 align="Left">🏋️‍♂️ Stats</h2>
 <br>
