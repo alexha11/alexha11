@@ -1,6 +1,3 @@
-<h2 align="Left">⚽ Infor</h2>
-
-
 <h2 align="Left">🏋️‍♂️ Stats</h2>
 <br>
 <div align=center>
